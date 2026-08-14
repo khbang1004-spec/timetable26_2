@@ -81,8 +81,9 @@ function esc(t) {
 function formatSubjectForDisplay(subject) {
   const safe = esc(subject);
   return safe
-    .replaceAll("지구시스템과학", "지구시스템<wbr>과학")
-    .replaceAll("과학탐구실험2", "과학탐구<wbr>실험2");
+    .replace(/지구시스템\s*과학/g, "지구시스템<wbr>과학")
+    .replace(/과학탐구\s*실험\s*2/g, "과학탐구<wbr>실험2")
+    .replace(/과학탐구실험2/g, "과학탐구<wbr>실험2");
 }
 
 /* ──────────────────────────────────────────
