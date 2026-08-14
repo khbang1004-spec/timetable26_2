@@ -239,6 +239,7 @@ body {
 
 /* ── Individual cell ──────────────────────────────────── */
 .slot {
+  height: auto;
   min-height: 80px;
   border-radius: var(--r-cell);
   background: var(--c-slot);
@@ -292,25 +293,26 @@ body {
 }
 
 .s-subject {
-  font-size: min(1.9vw, .85rem);
+  font-size: clamp(.78rem, 1.9vw, .85rem);
   font-weight: 800;
   color: var(--c-text);
   line-height: 1.2;
-  word-break: keep-all;
-  overflow-wrap: break-word;
+  white-space: normal;
+  word-break: break-all;
+  overflow-wrap: anywhere;
   max-width: 100%;
 }
 
 .s-teacher,
 .s-room {
-  font-size: min(1.55vw, .68rem);
+  font-size: clamp(.62rem, 1.55vw, .68rem);
   font-weight: 600;
   color: var(--c-sub);
   line-height: 1.2;
   max-width: 100%;
   white-space: normal;
   overflow-wrap: anywhere;
-  word-break: keep-all;
+  word-break: break-word;
 }
 
 /* ── Dropdown ────────────────────────────────────────── */
@@ -384,13 +386,13 @@ body {
   }
 
   .s-subject {
-    font-size: min(3.2vw, .78rem);
+    font-size: clamp(.74rem, 2.95vw, .8rem);
     line-height: 1.15;
   }
 
   .s-teacher,
   .s-room {
-    font-size: min(2.55vw, .63rem);
+    font-size: clamp(.6rem, 2.3vw, .65rem);
     line-height: 1.15;
   }
 }
