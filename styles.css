@@ -293,18 +293,22 @@ body {
 }
 
 .s-subject {
+  display: block;
+  width: 100%;
   font-size: clamp(.78rem, 1.9vw, .85rem);
   font-weight: 800;
   color: var(--c-text);
   line-height: 1.2;
   white-space: normal;
-  word-break: break-all;
+  word-break: keep-all;
   overflow-wrap: anywhere;
   max-width: 100%;
 }
 
 .s-teacher,
 .s-room {
+  display: block;
+  width: 100%;
   font-size: clamp(.62rem, 1.55vw, .68rem);
   font-weight: 600;
   color: var(--c-sub);
