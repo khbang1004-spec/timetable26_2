@@ -239,7 +239,7 @@ body {
 
 /* ── Individual cell ──────────────────────────────────── */
 .slot {
-  height: 80px;
+  min-height: 80px;
   border-radius: var(--r-cell);
   background: var(--c-slot);
   border: 1.5px solid var(--c-border);
@@ -249,8 +249,8 @@ body {
   justify-content: center;
   padding: 4px 3px;
   text-align: center;
-  overflow: hidden;
-  gap: 1px;
+  overflow: visible;
+  gap: 2px;
 }
 
 .slot.is-block {
@@ -308,9 +308,9 @@ body {
   color: var(--c-sub);
   line-height: 1.2;
   max-width: 100%;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  word-break: keep-all;
 }
 
 /* ── Dropdown ────────────────────────────────────────── */
@@ -377,7 +377,20 @@ body {
   .result-head { padding: 16px 18px; }
   .result-head h2 { font-size: 1.3rem; }
 
-  .slot { height: 68px; }
-  .s-subject { font-size: min(3.2vw, .78rem); }
-  .s-teacher, .s-room { font-size: min(2.6vw, .64rem); }
+  .slot {
+    min-height: 72px;
+    padding: 4px 2px;
+    gap: 1px;
+  }
+
+  .s-subject {
+    font-size: min(3.2vw, .78rem);
+    line-height: 1.15;
+  }
+
+  .s-teacher,
+  .s-room {
+    font-size: min(2.55vw, .63rem);
+    line-height: 1.15;
+  }
 }
