@@ -1,0 +1,83 @@
+[
+  {
+    "studentId": "2401",
+    "number": "1",
+    "name": "김가은",
+    "blocks": {
+      "A": {
+        "subject": "기하",
+        "teacher": "이민준T",
+        "room": "수학3실"
+      },
+      "B": {
+        "subject": "한문 I",
+        "teacher": "최은지T",
+        "room": "한문실"
+      },
+      "C": {
+        "subject": "중국어 I",
+        "teacher": "박성호T",
+        "room": "중국어실"
+      },
+      "D": {
+        "subject": "일본어 I",
+        "teacher": "김지현T",
+        "room": "일본어실"
+      }
+    }
+  },
+  {
+    "studentId": "2402",
+    "number": "2",
+    "name": "박서준",
+    "blocks": {
+      "A": {
+        "subject": "기하",
+        "teacher": "윤나래T",
+        "room": "수학2실"
+      },
+      "B": {
+        "subject": "한문 I",
+        "teacher": "정유진T",
+        "room": "한문실"
+      },
+      "C": {
+        "subject": "중국어 I",
+        "teacher": "이정우T",
+        "room": "중국어실"
+      },
+      "D": {
+        "subject": "일본어 I",
+        "teacher": "조하늘T",
+        "room": "일본어실"
+      }
+    }
+  },
+  {
+    "studentId": "2417",
+    "number": "17",
+    "name": "이도윤",
+    "blocks": {
+      "A": {
+        "subject": "기하",
+        "teacher": "이민준T",
+        "room": "수학3실"
+      },
+      "B": {
+        "subject": "한문 I",
+        "teacher": "최은지T",
+        "room": "한문실"
+      },
+      "C": {
+        "subject": "중국어 I",
+        "teacher": "박성호T",
+        "room": "중국어실"
+      },
+      "D": {
+        "subject": "일본어 I",
+        "teacher": "김지현T",
+        "room": "일본어실"
+      }
+    }
+  }
+]

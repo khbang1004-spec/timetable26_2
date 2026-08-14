@@ -1,0 +1,904 @@
+[
+  {
+    "studentId": "",
+    "number": "1",
+    "name": "고해민",
+    "blocks": {
+      "A": {
+        "subject": "일본어",
+        "teacher": "양성모T",
+        "room": "2-1"
+      },
+      "B": {
+        "subject": "인공지능 기초",
+        "teacher": "정소라T",
+        "room": "AI 창의실"
+      },
+      "C": {
+        "subject": "음악과 미디어",
+        "teacher": "윤혜민T",
+        "room": "음악실1"
+      },
+      "D": {
+        "subject": "법과 사회",
+        "teacher": "김현T",
+        "room": "2-6"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "2",
+    "name": "공혜영",
+    "blocks": {
+      "A": {
+        "subject": "도시의 미래 탐구",
+        "teacher": "송은정T",
+        "room": "2-8"
+      },
+      "B": {
+        "subject": "일본어",
+        "teacher": "양성모T",
+        "room": "2-2"
+      },
+      "C": {
+        "subject": "사회문제 탐구",
+        "teacher": "장수빈T",
+        "room": "2-9"
+      },
+      "D": {
+        "subject": "동아시아 역사 기행",
+        "teacher": "황영숙T",
+        "room": "2-7"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "3",
+    "name": "김나현",
+    "blocks": {
+      "A": {
+        "subject": "동아시아 역사 기행",
+        "teacher": "황영숙T",
+        "room": "2-6"
+      },
+      "B": {
+        "subject": "도시의 미래 탐구",
+        "teacher": "송은정T",
+        "room": "2-9"
+      },
+      "C": {
+        "subject": "법과 사회",
+        "teacher": "송태성T",
+        "room": "2-7"
+      },
+      "D": {
+        "subject": "일본어",
+        "teacher": "양성모T",
+        "room": "2-4"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "4",
+    "name": "김서진",
+    "blocks": {
+      "A": {
+        "subject": "일본어",
+        "teacher": "양성모T",
+        "room": "2-1"
+      },
+      "B": {
+        "subject": "도시의 미래 탐구",
+        "teacher": "송은정T",
+        "room": "2-9"
+      },
+      "C": {
+        "subject": "음악과 미디어",
+        "teacher": "윤혜민T",
+        "room": "음악실1"
+      },
+      "D": {
+        "subject": "세계시민과 지리",
+        "teacher": "임성군T",
+        "room": "2-3"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "5",
+    "name": "김소윤",
+    "blocks": {
+      "A": {
+        "subject": "윤리와 사상",
+        "teacher": "김지혜T",
+        "room": "2-7"
+      },
+      "B": {
+        "subject": "중국어",
+        "teacher": "임화선T",
+        "room": "2-3"
+      },
+      "C": {
+        "subject": "인공지능 기초",
+        "teacher": "정소라T",
+        "room": "AI 창의실"
+      },
+      "D": {
+        "subject": "세계시민과 지리",
+        "teacher": "임성군T",
+        "room": "2-3"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "6",
+    "name": "김예원",
+    "blocks": {
+      "A": {
+        "subject": "물질과 에너지",
+        "teacher": "이채민T",
+        "room": "2-10"
+      },
+      "B": {
+        "subject": "기하",
+        "teacher": "김상욱T",
+        "room": "2-7"
+      },
+      "C": {
+        "subject": "일본어",
+        "teacher": "양성모T",
+        "room": "2-3"
+      },
+      "D": {
+        "subject": "세포와 물질대사",
+        "teacher": "윤희애T",
+        "room": "2-13"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "7",
+    "name": "김은서",
+    "blocks": {
+      "A": {
+        "subject": "일본어",
+        "teacher": "양성모T",
+        "room": "2-1"
+      },
+      "B": {
+        "subject": "물질과 에너지",
+        "teacher": "이채민T",
+        "room": "2-1"
+      },
+      "C": {
+        "subject": "법과 사회",
+        "teacher": "송태성T",
+        "room": "2-7"
+      },
+      "D": {
+        "subject": "세포와 물질대사",
+        "teacher": "윤희애T",
+        "room": "2-13"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "8",
+    "name": "김하은",
+    "blocks": {
+      "A": {
+        "subject": "세포와 물질대사",
+        "teacher": "윤희애T",
+        "room": "2-11"
+      },
+      "B": {
+        "subject": "물질과 에너지",
+        "teacher": "이채민T",
+        "room": "2-1"
+      },
+      "C": {
+        "subject": "중국어",
+        "teacher": "임화선T",
+        "room": "2-4"
+      },
+      "D": {
+        "subject": "물리학",
+        "teacher": "김서영T",
+        "room": "2-14"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "9",
+    "name": "문예원",
+    "blocks": {
+      "A": {
+        "subject": "중국어",
+        "teacher": "임화선T",
+        "room": "2-2"
+      },
+      "B": {
+        "subject": "미술과 매체",
+        "teacher": "조유진, 조희주T",
+        "room": "미술실1"
+      },
+      "C": {
+        "subject": "법과 사회",
+        "teacher": "송태성T",
+        "room": "2-7"
+      },
+      "D": {
+        "subject": "도시의 미래 탐구",
+        "teacher": "송은정T",
+        "room": "2-12"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "10",
+    "name": "박세현",
+    "blocks": {
+      "A": {
+        "subject": "세포와 물질대사",
+        "teacher": "윤희애T",
+        "room": "2-11"
+      },
+      "B": {
+        "subject": "일본어",
+        "teacher": "양성모T",
+        "room": "2-2"
+      },
+      "C": {
+        "subject": "물질과 에너지",
+        "teacher": "이채민T",
+        "room": "2-12"
+      },
+      "D": {
+        "subject": "법과 사회",
+        "teacher": "김현T",
+        "room": "2-6"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "11",
+    "name": "박승원",
+    "blocks": {
+      "A": {
+        "subject": "세포와 물질대사",
+        "teacher": "윤희애T",
+        "room": "2-11"
+      },
+      "B": {
+        "subject": "중국어",
+        "teacher": "임화선T",
+        "room": "2-3"
+      },
+      "C": {
+        "subject": "화학",
+        "teacher": "지성민T",
+        "room": "2-11"
+      },
+      "D": {
+        "subject": "법과 사회",
+        "teacher": "김현T",
+        "room": "2-6"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "12",
+    "name": "배성은",
+    "blocks": {
+      "A": {
+        "subject": "중국어",
+        "teacher": "임화선T",
+        "room": "2-2"
+      },
+      "B": {
+        "subject": "도시의 미래 탐구",
+        "teacher": "송은정T",
+        "room": "2-9"
+      },
+      "C": {
+        "subject": "경제",
+        "teacher": "오영미T",
+        "room": "2-8"
+      },
+      "D": {
+        "subject": "동아시아 역사 기행",
+        "teacher": "황영숙T",
+        "room": "2-7"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "13",
+    "name": "안희윤",
+    "blocks": {
+      "A": {
+        "subject": "일본어",
+        "teacher": "양성모T",
+        "room": "2-1"
+      },
+      "B": {
+        "subject": "도시의 미래 탐구",
+        "teacher": "송은정T",
+        "room": "2-9"
+      },
+      "C": {
+        "subject": "법과 사회",
+        "teacher": "송태성T",
+        "room": "2-7"
+      },
+      "D": {
+        "subject": "동아시아 역사 기행",
+        "teacher": "황영숙T",
+        "room": "2-7"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "14",
+    "name": "오호진",
+    "blocks": {
+      "A": {
+        "subject": "한문",
+        "teacher": "이혜경T",
+        "room": "2-3"
+      },
+      "B": {
+        "subject": "물질과 에너지",
+        "teacher": "이채민T",
+        "room": "2-1"
+      },
+      "C": {
+        "subject": "기하",
+        "teacher": "남수원T",
+        "room": "2-1"
+      },
+      "D": {
+        "subject": "세포와 물질대사",
+        "teacher": "윤희애T",
+        "room": "2-13"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "15",
+    "name": "윤재선",
+    "blocks": {
+      "A": {
+        "subject": "한문",
+        "teacher": "이혜경T",
+        "room": "2-3"
+      },
+      "B": {
+        "subject": "인공지능 기초",
+        "teacher": "정소라T",
+        "room": "AI 창의실"
+      },
+      "C": {
+        "subject": "화학",
+        "teacher": "지성민T",
+        "room": "2-11"
+      },
+      "D": {
+        "subject": "생명과학",
+        "teacher": "황보성진T",
+        "room": "2-9"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "16",
+    "name": "이건호",
+    "blocks": {
+      "A": {
+        "subject": "역학과 에너지",
+        "teacher": "김서영T",
+        "room": "2-9"
+      },
+      "B": {
+        "subject": "일본어",
+        "teacher": "양성모T",
+        "room": "2-2"
+      },
+      "C": {
+        "subject": "기하",
+        "teacher": "남수원T",
+        "room": "2-1"
+      },
+      "D": {
+        "subject": "물질과 에너지",
+        "teacher": "이채민T",
+        "room": "2-11"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "17",
+    "name": "이나예",
+    "blocks": {
+      "A": {
+        "subject": "물질과 에너지",
+        "teacher": "이채민T",
+        "room": "2-10"
+      },
+      "B": {
+        "subject": "중국어",
+        "teacher": "임화선T",
+        "room": "2-3"
+      },
+      "C": {
+        "subject": "기하",
+        "teacher": "남수원T",
+        "room": "2-1"
+      },
+      "D": {
+        "subject": "물리학",
+        "teacher": "김서영T",
+        "room": "2-14"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "18",
+    "name": "이민주",
+    "blocks": {
+      "A": {
+        "subject": "동아시아 역사 기행",
+        "teacher": "황영숙T",
+        "room": "2-6"
+      },
+      "B": {
+        "subject": "미술과 매체",
+        "teacher": "조유진, 조희주T",
+        "room": "미술실1"
+      },
+      "C": {
+        "subject": "세계시민과 지리",
+        "teacher": "임성군T",
+        "room": "2-6"
+      },
+      "D": {
+        "subject": "한문",
+        "teacher": "김범준T",
+        "room": "2-2"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "19",
+    "name": "이재율",
+    "blocks": {
+      "A": {
+        "subject": "물질과 에너지",
+        "teacher": "이채민T",
+        "room": "2-10"
+      },
+      "B": {
+        "subject": "세포와 물질대사",
+        "teacher": "윤희애T",
+        "room": "2-12"
+      },
+      "C": {
+        "subject": "기하",
+        "teacher": "남수원T",
+        "room": "2-1"
+      },
+      "D": {
+        "subject": "일본어",
+        "teacher": "양성모T",
+        "room": "2-4"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "20",
+    "name": "이지현",
+    "blocks": {
+      "A": {
+        "subject": "한문",
+        "teacher": "이혜경T",
+        "room": "2-3"
+      },
+      "B": {
+        "subject": "도시의 미래 탐구",
+        "teacher": "송은정T",
+        "room": "2-9"
+      },
+      "C": {
+        "subject": "세계시민과 지리",
+        "teacher": "임성군T",
+        "room": "2-6"
+      },
+      "D": {
+        "subject": "동아시아 역사 기행",
+        "teacher": "황영숙T",
+        "room": "2-7"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "21",
+    "name": "전태민",
+    "blocks": {
+      "A": {
+        "subject": "도시의 미래 탐구",
+        "teacher": "송은정T",
+        "room": "2-8"
+      },
+      "B": {
+        "subject": "세포와 물질대사",
+        "teacher": "윤희애T",
+        "room": "2-12"
+      },
+      "C": {
+        "subject": "일본어",
+        "teacher": "양성모T",
+        "room": "2-3"
+      },
+      "D": {
+        "subject": "경제",
+        "teacher": "오영미T",
+        "room": "2-5"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "22",
+    "name": "조성호",
+    "blocks": {
+      "A": {
+        "subject": "역학과 에너지",
+        "teacher": "김서영T",
+        "room": "2-9"
+      },
+      "B": {
+        "subject": "기하",
+        "teacher": "김상욱T",
+        "room": "2-7"
+      },
+      "C": {
+        "subject": "물질과 에너지",
+        "teacher": "이채민T",
+        "room": "2-12"
+      },
+      "D": {
+        "subject": "일본어",
+        "teacher": "양성모T",
+        "room": "2-4"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "23",
+    "name": "조윤건",
+    "blocks": {
+      "A": {
+        "subject": "동아시아 역사 기행",
+        "teacher": "황영숙T",
+        "room": "2-6"
+      },
+      "B": {
+        "subject": "기하",
+        "teacher": "김상욱T",
+        "room": "2-7"
+      },
+      "C": {
+        "subject": "중국어",
+        "teacher": "임화선T",
+        "room": "2-4"
+      },
+      "D": {
+        "subject": "도시의 미래 탐구",
+        "teacher": "송은정T",
+        "room": "2-12"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "24",
+    "name": "차건우",
+    "blocks": {
+      "A": {
+        "subject": "동아시아 역사 기행",
+        "teacher": "황영숙T",
+        "room": "2-6"
+      },
+      "B": {
+        "subject": "도시의 미래 탐구",
+        "teacher": "송은정T",
+        "room": "2-9"
+      },
+      "C": {
+        "subject": "법과 사회",
+        "teacher": "송태성T",
+        "room": "2-7"
+      },
+      "D": {
+        "subject": "중국어",
+        "teacher": "임화선T",
+        "room": "2-1"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "25",
+    "name": "최수빈",
+    "blocks": {
+      "A": {
+        "subject": "물질과 에너지",
+        "teacher": "이채민T",
+        "room": "2-10"
+      },
+      "B": {
+        "subject": "세포와 물질대사",
+        "teacher": "윤희애T",
+        "room": "2-12"
+      },
+      "C": {
+        "subject": "한문",
+        "teacher": "이혜경T",
+        "room": "2-5"
+      },
+      "D": {
+        "subject": "사회문제 탐구",
+        "teacher": "송태성T",
+        "room": "2-8"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "26",
+    "name": "최예준",
+    "blocks": {
+      "A": {
+        "subject": "역학과 에너지",
+        "teacher": "김서영T",
+        "room": "2-9"
+      },
+      "B": {
+        "subject": "일본어",
+        "teacher": "양성모T",
+        "room": "2-2"
+      },
+      "C": {
+        "subject": "기하",
+        "teacher": "남수원T",
+        "room": "2-1"
+      },
+      "D": {
+        "subject": "사회문제 탐구",
+        "teacher": "송태성T",
+        "room": "2-8"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "27",
+    "name": "최재영",
+    "blocks": {
+      "A": {
+        "subject": "한문",
+        "teacher": "이혜경T",
+        "room": "2-3"
+      },
+      "B": {
+        "subject": "법과 사회",
+        "teacher": "오영미T",
+        "room": "2-8"
+      },
+      "C": {
+        "subject": "동아시아 역사 기행",
+        "teacher": "황영숙T",
+        "room": "2-10"
+      },
+      "D": {
+        "subject": "세계시민과 지리",
+        "teacher": "임성군T",
+        "room": "2-3"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "28",
+    "name": "현석윤",
+    "blocks": {
+      "A": {
+        "subject": "세포와 물질대사",
+        "teacher": "윤희애T",
+        "room": "2-11"
+      },
+      "B": {
+        "subject": "지구과학",
+        "teacher": "조덕연T",
+        "room": "2-11"
+      },
+      "C": {
+        "subject": "일본어",
+        "teacher": "양성모T",
+        "room": "2-3"
+      },
+      "D": {
+        "subject": "지구시스템과학",
+        "teacher": "이지민T",
+        "room": "2-10"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "29",
+    "name": "홍남경",
+    "blocks": {
+      "A": {
+        "subject": "물질과 에너지",
+        "teacher": "이채민T",
+        "room": "2-10"
+      },
+      "B": {
+        "subject": "역학과 에너지",
+        "teacher": "김서영T",
+        "room": "2-6"
+      },
+      "C": {
+        "subject": "기하",
+        "teacher": "남수원T",
+        "room": "2-1"
+      },
+      "D": {
+        "subject": "한문",
+        "teacher": "김범준T",
+        "room": "2-2"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "30",
+    "name": "홍유빈",
+    "blocks": {
+      "A": {
+        "subject": "생활과학 탐구",
+        "teacher": "김성은T",
+        "room": "가정실"
+      },
+      "B": {
+        "subject": "미술과 매체",
+        "teacher": "조유진, 조희주T",
+        "room": "미술실1"
+      },
+      "C": {
+        "subject": "음악과 미디어",
+        "teacher": "윤혜민T",
+        "room": "음악실1"
+      },
+      "D": {
+        "subject": "중국어",
+        "teacher": "임화선T",
+        "room": "2-1"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "31",
+    "name": "황선균",
+    "blocks": {
+      "A": {
+        "subject": "한문",
+        "teacher": "이혜경T",
+        "room": "2-3"
+      },
+      "B": {
+        "subject": "미술과 매체",
+        "teacher": "조유진, 조희주T",
+        "room": "미술실1"
+      },
+      "C": {
+        "subject": "세계시민과 지리",
+        "teacher": "임성군T",
+        "room": "2-6"
+      },
+      "D": {
+        "subject": "법과 사회",
+        "teacher": "김현T",
+        "room": "2-6"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "32",
+    "name": "황정우",
+    "blocks": {
+      "A": {
+        "subject": "역학과 에너지",
+        "teacher": "김서영T",
+        "room": "2-9"
+      },
+      "B": {
+        "subject": "물질과 에너지",
+        "teacher": "이채민T",
+        "room": "2-1"
+      },
+      "C": {
+        "subject": "기하",
+        "teacher": "남수원T",
+        "room": "2-1"
+      },
+      "D": {
+        "subject": "한문",
+        "teacher": "김범준T",
+        "room": "2-2"
+      }
+    }
+  },
+  {
+    "studentId": "",
+    "number": "33",
+    "name": "황호현",
+    "blocks": {
+      "A": {},
+      "B": {},
+      "C": {},
+      "D": {}
+    }
+  },
+  {
+    "studentId": "",
+    "number": "35",
+    "name": "허예린",
+    "blocks": {
+      "A": {
+        "subject": "세포와 물질대사",
+        "teacher": "윤희애T",
+        "room": "2-11"
+      },
+      "B": {
+        "subject": "물질과 에너지",
+        "teacher": "이채민T",
+        "room": "2-1"
+      },
+      "C": {
+        "subject": "역학과 에너지",
+        "teacher": "김서영T",
+        "room": "2-13"
+      },
+      "D": {
+        "subject": "일본어",
+        "teacher": "양성모T",
+        "room": "2-4"
+      }
+    }
+  }
+]
