@@ -78,6 +78,13 @@ function esc(t) {
     .replace(/>/g,"&gt;").replace(/"/g,"&quot;");
 }
 
+function formatSubjectForDisplay(subject) {
+  const safe = esc(subject);
+  return safe
+    .replaceAll("지구시스템과학", "지구시스템<wbr>과학")
+    .replaceAll("과학탐구실험2", "과학탐구<wbr>실험2");
+}
+
 /* ──────────────────────────────────────────
    검색 – 번호 / 이름 / 학번 정확 일치 우선
    ────────────────────────────────────────── */
@@ -170,7 +177,7 @@ function buildCell(day, period, student) {
 
   return `<td><div class="${cls}">
     ${tag}
-    <span class="s-subject">${esc(subject)}</span>
+    <span class="s-subject">${formatSubjectForDisplay(subject)}</span>
     <span class="s-teacher">${esc(teacher)}</span>
     <span class="s-room">${esc(room)}</span>
   </div></td>`;
